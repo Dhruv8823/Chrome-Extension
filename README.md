@@ -3,7 +3,7 @@
 
 This is Google Chrome Extension made with HTML | CSS | JavaScript
 
-With this extension, you can save the tab on which you are or type a note or name in the input field and save it
+With this extension, you can save the tab on which you are or type a note or name in the input field and save it. 
 This will help you to easily save the tabs you want to quickly access or make a note online for future use
 
 To add this extension to your browser 
